@@ -17,7 +17,7 @@ To write a program to predict the marks scored by a student using the simple lin
 7. Compare the graphs and hence we obtain the LinearRegression for the given datas.
 
 ## Program:
-
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by:A.sharmila 
@@ -55,6 +55,7 @@ plt.ylabel("Scores")
 plt.show()
 
 */
+```
 
 ## Output:
 ![Screenshot 2022-09-30 225253](https://user-images.githubusercontent.com/94506182/193323874-02a1d4a5-6d5d-4706-a5cd-17360c004583.png)
